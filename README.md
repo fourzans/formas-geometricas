@@ -1,5 +1,5 @@
 
-# Formas Geometricas
+# Formas Geométricas
 
 ### El problema
 
