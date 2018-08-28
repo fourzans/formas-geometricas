@@ -1,0 +1,17 @@
+﻿{
+    "listaVaciaFormas": "<h1>Empty list of shapes!</h1>",
+    "reporteFormas": "<h1>Shapes report</h1>",
+    "total": "TOTAL:<br/>",
+    "forma": "shape",
+    "formas": "shapes",
+    "perimetro": "Perimeter",
+    "area": "Area",
+    "cuadrado": "Square",
+    "cuadrados": "Squares",
+    "circulo": "Circle",
+    "circulos": "Circles",
+    "triangulo": "Triangle",
+    "triangulos": "Triangles",
+    "trapecio": "Trapezium",
+    "trapecios": "Trapeziums"
+}

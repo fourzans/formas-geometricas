@@ -1,0 +1,17 @@
+﻿{
+    "listaVaciaFormas": "<h1>Список фигур пуст!</h1>",
+    "reporteFormas": "<h1>Отчет о фигурах</h1>",
+    "total": "Всего:<br/>",
+    "forma": "фигура",
+    "formas": "фигуры",
+    "perimetro": "Периметр",
+    "area": "Площадь",
+    "cuadrado": "Квадрат",
+    "cuadrados": "Квадраты",
+    "circulo": "Круг",
+    "circulos": "Круги",
+    "triangulo": "Треугольник",
+    "triangulos": "Треугольники",
+    "trapecio": "Трапеция",
+    "trapecios": "Трапеция"
+}

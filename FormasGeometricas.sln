@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormasGeometricas.Data", "FormasGeometricas.Data\FormasGeometricas.Data.csproj", "{B21A8F24-C7E0-4E69-B1D7-B424237DC216}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormasGeometricas.Data.Tests", "FormasGeometricas.Data.Tests\FormasGeometricas.Data.Tests.csproj", "{CAC2DC96-0AEF-48C0-A6E4-07EF206B860A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FormasGeometricas.Globalization", "FormasGeometricas.Globalization\FormasGeometricas.Globalization.csproj", "{1D62CDBB-24FD-4CF2-B960-90158F97648C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B21A8F24-C7E0-4E69-B1D7-B424237DC216}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B21A8F24-C7E0-4E69-B1D7-B424237DC216}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B21A8F24-C7E0-4E69-B1D7-B424237DC216}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B21A8F24-C7E0-4E69-B1D7-B424237DC216}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAC2DC96-0AEF-48C0-A6E4-07EF206B860A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAC2DC96-0AEF-48C0-A6E4-07EF206B860A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAC2DC96-0AEF-48C0-A6E4-07EF206B860A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAC2DC96-0AEF-48C0-A6E4-07EF206B860A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D62CDBB-24FD-4CF2-B960-90158F97648C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D62CDBB-24FD-4CF2-B960-90158F97648C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D62CDBB-24FD-4CF2-B960-90158F97648C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D62CDBB-24FD-4CF2-B960-90158F97648C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E82C5A93-DECD-498F-B6C1-AB54CE536CAE}
+	EndGlobalSection
+EndGlobal
