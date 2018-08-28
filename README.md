@@ -1,5 +1,5 @@
 
-# Coding Challenge
+# Formas Geometricas
 
 ### El problema
 
